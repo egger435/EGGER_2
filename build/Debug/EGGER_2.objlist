@@ -1,0 +1,15 @@
+./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+./build/Debug/.obj/src/Modules/Motor.o
+./build/Debug/.obj/src/Modules/PWM.o
+./build/Debug/.obj/src/Modules/Serial.o
+./build/Debug/.obj/src/main.o
+./build/Debug/.obj/src/startup_stm32f10x_md.o
+./build/Debug/.obj/src/stm32f10x_it.o

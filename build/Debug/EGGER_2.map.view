@@ -1,0 +1,3 @@
+tool: GCC
+fileName: EGGER_2.map
+elfName: EGGER_2.elf

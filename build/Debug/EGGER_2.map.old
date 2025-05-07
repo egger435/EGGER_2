@@ -1,0 +1,1168 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+                              c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+                              c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+                              c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+                              c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+                              c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x20 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x64 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_Init
+                0x00000000       0x4c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_Cmd  0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_DMACmd
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ResetCalibration
+                0x00000000        0xa ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetResetCalibrationStatus
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_StartCalibration
+                0x00000000        0xa ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetCalibrationStatus
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_SoftwareStartConvCmd
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_RegularChannelConfig
+                0x00000000       0x98 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x62 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1a ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x20 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_info    0x00000000      0xd5c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x1fa ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_loc     0x00000000      0xa91 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_aranges
+                0x00000000      0x138 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_ranges  0x00000000      0x128 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_line    0x00000000      0xa5b ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_str     0x00000000      0x721 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .comment       0x00000000       0x4e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .debug_frame   0x00000000      0x28c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x2d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x00000000       0x8c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x20 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_info    0x00000000      0x370 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x182 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_loc     0x00000000      0x17d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x58 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_ranges  0x00000000       0x48 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_line    0x00000000      0x360 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_str     0x00000000      0x358 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .comment       0x00000000       0x4e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .debug_frame   0x00000000       0xa0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x2d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xcc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000        0xa ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x00000000       0x7c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x34 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x40 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x3c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x30 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x34 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x30 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x64 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_Init
+                0x00000000       0x4e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.I2S_Init
+                0x00000000       0xb8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_Cmd  0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.I2S_Cmd  0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x20 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x00000000       0x18 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x22 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x20 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x2c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_info    0x00000000      0xaa1 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_abbrev  0x00000000      0x1f2 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_loc     0x00000000      0x6e3 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_aranges
+                0x00000000       0xd0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_ranges  0x00000000       0xc0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_line    0x00000000      0x723 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_str     0x00000000      0x64c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .comment       0x00000000       0x4e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .debug_frame   0x00000000      0x1b0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x2d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TI1_Config
+                0x00000000       0x88 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TI2_Config
+                0x00000000       0x94 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TI3_Config
+                0x00000000       0x84 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TI4_Config
+                0x00000000       0x98 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x20c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x2c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x24 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ITConfig
+                0x00000000       0x18 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x18 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x18 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x2e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x46 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x22 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x22 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x5e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x1a ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000       0x6c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x1a ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x00000000       0x62 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_GetITStatus
+                0x00000000       0x18 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x00000000       0xa4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x26 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x18 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x12 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x16 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x94 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .data.AHBPrescTable
+                0x00000000       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/src/Modules/Motor.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/src/Modules/Motor.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/src/Modules/Motor.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/src/Modules/PWM.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/src/Modules/PWM.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/src/Modules/PWM.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/src/Modules/Serial.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/src/Modules/Serial.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/src/Modules/Serial.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/src/main.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/src/main.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/src/main.o
+ .text          0x00000000       0x14 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+ .text          0x00000000        0x0 ./build/Debug/.obj/src/stm32f10x_it.o
+ .data          0x00000000        0x0 ./build/Debug/.obj/src/stm32f10x_it.o
+ .bss           0x00000000        0x0 ./build/Debug/.obj/src/stm32f10x_it.o
+ .text          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00020000         xr
+RAM              0x20000000         0x00005000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+LOAD ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_adc.o
+LOAD ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.o
+LOAD ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+LOAD ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+LOAD ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.o
+LOAD ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+LOAD ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+LOAD ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+LOAD ./build/Debug/.obj/src/Modules/Motor.o
+LOAD ./build/Debug/.obj/src/Modules/PWM.o
+LOAD ./build/Debug/.obj/src/Modules/Serial.o
+LOAD ./build/Debug/.obj/src/main.o
+LOAD ./build/Debug/.obj/src/startup_stm32f10x_md.o
+LOAD ./build/Debug/.obj/src/stm32f10x_it.o
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+START GROUP
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+                0x20005000                _estack = 0x20005000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000100                _Min_Stack_Size = 0x100
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c ./build/Debug/.obj/src/startup_stm32f10x_md.o
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.eh_frame       0x0800010c        0x0
+ .eh_frame      0x0800010c        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.text           0x0800010c      0xf18
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x40 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.text*)
+ .text.NVIC_PriorityGroupConfig
+                0x0800014c       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+                0x0800014c                NVIC_PriorityGroupConfig
+ .text.NVIC_Init
+                0x08000160       0x64 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+                0x08000160                NVIC_Init
+ .text.GPIO_Init
+                0x080001c4       0xb2 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                0x080001c4                GPIO_Init
+ .text.GPIO_SetBits
+                0x08000276        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                0x08000276                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x0800027a        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                0x0800027a                GPIO_ResetBits
+ *fill*         0x0800027e        0x2 
+ .text.RCC_GetClocksFreq
+                0x08000280       0xbc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                0x08000280                RCC_GetClocksFreq
+ .text.RCC_APB2PeriphClockCmd
+                0x0800033c       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                0x0800033c                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x08000358       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                0x08000358                RCC_APB1PeriphClockCmd
+ .text.TIM_TimeBaseInit
+                0x08000374       0x94 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x08000374                TIM_TimeBaseInit
+ .text.TIM_OC1Init
+                0x08000408       0x8c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x08000408                TIM_OC1Init
+ .text.TIM_OC2Init
+                0x08000494       0x98 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x08000494                TIM_OC2Init
+ .text.TIM_OC3Init
+                0x0800052c       0x94 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x0800052c                TIM_OC3Init
+ .text.TIM_OC4Init
+                0x080005c0       0x80 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x080005c0                TIM_OC4Init
+ .text.TIM_OCStructInit
+                0x08000640       0x14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x08000640                TIM_OCStructInit
+ .text.TIM_Cmd  0x08000654       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x08000654                TIM_Cmd
+ .text.TIM_InternalClockConfig
+                0x08000670        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x08000670                TIM_InternalClockConfig
+ .text.TIM_SetCompare1
+                0x0800067e        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x0800067e                TIM_SetCompare1
+ .text.TIM_SetCompare2
+                0x08000682        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x08000682                TIM_SetCompare2
+ .text.TIM_SetCompare3
+                0x08000686        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x08000686                TIM_SetCompare3
+ .text.TIM_SetCompare4
+                0x0800068a        0x6 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                0x0800068a                TIM_SetCompare4
+ .text.USART_Init
+                0x08000690       0xc4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                0x08000690                USART_Init
+ .text.USART_Cmd
+                0x08000754       0x1c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                0x08000754                USART_Cmd
+ .text.USART_ITConfig
+                0x08000770       0x36 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                0x08000770                USART_ITConfig
+ .text.USART_SendData
+                0x080007a6        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                0x080007a6                USART_SendData
+ .text.USART_ReceiveData
+                0x080007ae        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                0x080007ae                USART_ReceiveData
+ .text.USART_GetFlagStatus
+                0x080007b6        0xe ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                0x080007b6                USART_GetFlagStatus
+ .text.USART_GetITStatus
+                0x080007c4       0x4a ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                0x080007c4                USART_GetITStatus
+ .text.USART_ClearITPendingBit
+                0x0800080e       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                0x0800080e                USART_ClearITPendingBit
+ *fill*         0x0800081e        0x2 
+ .text.SetSysClockTo72
+                0x08000820       0xc4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .text.SetSysClock
+                0x080008e4        0x8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .text.SystemInit
+                0x080008ec       0x50 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+                0x080008ec                SystemInit
+ .text.Motor_Init
+                0x0800093c       0x68 ./build/Debug/.obj/src/Modules/Motor.o
+                0x0800093c                Motor_Init
+ .text.Motor_Set_Speed
+                0x080009a4       0x70 ./build/Debug/.obj/src/Modules/Motor.o
+                0x080009a4                Motor_Set_Speed
+ .text.Motor_Stop
+                0x08000a14       0x24 ./build/Debug/.obj/src/Modules/Motor.o
+                0x08000a14                Motor_Stop
+ .text.Motor_CMD
+                0x08000a38      0x188 ./build/Debug/.obj/src/Modules/Motor.o
+                0x08000a38                Motor_CMD
+ .text.PWM_Init
+                0x08000bc0       0xb0 ./build/Debug/.obj/src/Modules/PWM.o
+                0x08000bc0                PWM_Init
+ .text.PWM_SetDutyCycle
+                0x08000c70       0x72 ./build/Debug/.obj/src/Modules/PWM.o
+                0x08000c70                PWM_SetDutyCycle
+ *fill*         0x08000ce2        0x2 
+ .text.Serial_Init
+                0x08000ce4       0xb8 ./build/Debug/.obj/src/Modules/Serial.o
+                0x08000ce4                Serial_Init
+ .text.Serial_SendByte
+                0x08000d9c       0x1c ./build/Debug/.obj/src/Modules/Serial.o
+                0x08000d9c                Serial_SendByte
+ .text.Serial_SendString
+                0x08000db8       0x18 ./build/Debug/.obj/src/Modules/Serial.o
+                0x08000db8                Serial_SendString
+ .text.Serial_GetRxFlag
+                0x08000dd0       0x18 ./build/Debug/.obj/src/Modules/Serial.o
+                0x08000dd0                Serial_GetRxFlag
+ .text.USART1_IRQHandler
+                0x08000de8       0x80 ./build/Debug/.obj/src/Modules/Serial.o
+                0x08000de8                USART1_IRQHandler
+ .text.Setup    0x08000e68       0x1c ./build/Debug/.obj/src/main.o
+                0x08000e68                Setup
+ .text.Update   0x08000e84       0x18 ./build/Debug/.obj/src/main.o
+                0x08000e84                Update
+ .text.main     0x08000e9c        0xc ./build/Debug/.obj/src/main.o
+                0x08000e9c                main
+ .text.Reset_Handler
+                0x08000ea8       0x48 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+                0x08000ea8                Reset_Handler
+ .text.Default_Handler
+                0x08000ef0        0x2 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+                0x08000ef0                EXTI2_IRQHandler
+                0x08000ef0                TIM1_CC_IRQHandler
+                0x08000ef0                PVD_IRQHandler
+                0x08000ef0                EXTI3_IRQHandler
+                0x08000ef0                EXTI0_IRQHandler
+                0x08000ef0                I2C2_EV_IRQHandler
+                0x08000ef0                ADC1_2_IRQHandler
+                0x08000ef0                SPI1_IRQHandler
+                0x08000ef0                TAMPER_IRQHandler
+                0x08000ef0                DMA1_Channel4_IRQHandler
+                0x08000ef0                USART3_IRQHandler
+                0x08000ef0                RTC_IRQHandler
+                0x08000ef0                DMA1_Channel7_IRQHandler
+                0x08000ef0                CAN1_RX1_IRQHandler
+                0x08000ef0                TIM4_IRQHandler
+                0x08000ef0                I2C1_EV_IRQHandler
+                0x08000ef0                DMA1_Channel6_IRQHandler
+                0x08000ef0                TIM3_IRQHandler
+                0x08000ef0                RCC_IRQHandler
+                0x08000ef0                TIM1_TRG_COM_IRQHandler
+                0x08000ef0                DMA1_Channel1_IRQHandler
+                0x08000ef0                Default_Handler
+                0x08000ef0                EXTI15_10_IRQHandler
+                0x08000ef0                EXTI9_5_IRQHandler
+                0x08000ef0                SPI2_IRQHandler
+                0x08000ef0                DMA1_Channel5_IRQHandler
+                0x08000ef0                EXTI4_IRQHandler
+                0x08000ef0                USB_LP_CAN1_RX0_IRQHandler
+                0x08000ef0                USB_HP_CAN1_TX_IRQHandler
+                0x08000ef0                DMA1_Channel3_IRQHandler
+                0x08000ef0                TIM1_UP_IRQHandler
+                0x08000ef0                WWDG_IRQHandler
+                0x08000ef0                TIM2_IRQHandler
+                0x08000ef0                TIM1_BRK_IRQHandler
+                0x08000ef0                EXTI1_IRQHandler
+                0x08000ef0                RTCAlarm_IRQHandler
+                0x08000ef0                USART2_IRQHandler
+                0x08000ef0                I2C2_ER_IRQHandler
+                0x08000ef0                DMA1_Channel2_IRQHandler
+                0x08000ef0                CAN1_SCE_IRQHandler
+                0x08000ef0                FLASH_IRQHandler
+                0x08000ef0                I2C1_ER_IRQHandler
+                0x08000ef0                USBWakeUp_IRQHandler
+ .text.NMI_Handler
+                0x08000ef2        0x2 ./build/Debug/.obj/src/stm32f10x_it.o
+                0x08000ef2                NMI_Handler
+ .text.HardFault_Handler
+                0x08000ef4        0x2 ./build/Debug/.obj/src/stm32f10x_it.o
+                0x08000ef4                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000ef6        0x2 ./build/Debug/.obj/src/stm32f10x_it.o
+                0x08000ef6                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000ef8        0x2 ./build/Debug/.obj/src/stm32f10x_it.o
+                0x08000ef8                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000efa        0x2 ./build/Debug/.obj/src/stm32f10x_it.o
+                0x08000efa                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000efc        0x2 ./build/Debug/.obj/src/stm32f10x_it.o
+                0x08000efc                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000efe        0x2 ./build/Debug/.obj/src/stm32f10x_it.o
+                0x08000efe                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000f00        0x2 ./build/Debug/.obj/src/stm32f10x_it.o
+                0x08000f00                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000f02        0x2 ./build/Debug/.obj/src/stm32f10x_it.o
+                0x08000f02                SysTick_Handler
+ .text.__libc_init_array
+                0x08000f04       0x48 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+                0x08000f04                __libc_init_array
+ *(.rodata)
+ *(.rodata*)
+ .rodata.Motor_CMD.str1.4
+                0x08000f4c       0xb8 ./build/Debug/.obj/src/Modules/Motor.o
+ .rodata.Setup.str1.4
+                0x08001004        0x6 ./build/Debug/.obj/src/main.o
+ *(.glue_7)
+ .glue_7        0x0800100a        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800100a        0x0 linker stubs
+ *(.init)
+ *fill*         0x0800100a        0x2 
+ .init          0x0800100c        0x4 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+                0x0800100c                _init
+ .init          0x08001010        0x8 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08001018        0x4 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+                0x08001018                _fini
+ .fini          0x0800101c        0x8 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+                0x08001024                . = ALIGN (0x4)
+                0x08001024                _etext = .
+
+.vfp11_veneer   0x08001024        0x0
+ .vfp11_veneer  0x08001024        0x0 linker stubs
+
+.v4_bx          0x08001024        0x0
+ .v4_bx         0x08001024        0x0 linker stubs
+
+.iplt           0x08001024        0x0
+ .iplt          0x08001024        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rel.dyn        0x08001024        0x0
+ .rel.iplt      0x08001024        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001024        0x0
+                0x08001024                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001024                __exidx_end = .
+
+.ARM.attributes
+                0x08001024       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x08001024       0x1d c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x08001041       0x2d c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0800106e       0x2d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .ARM.attributes
+                0x0800109b       0x2d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .ARM.attributes
+                0x080010c8       0x2d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .ARM.attributes
+                0x080010f5       0x2d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .ARM.attributes
+                0x08001122       0x2d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .ARM.attributes
+                0x0800114f       0x2d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .ARM.attributes
+                0x0800117c       0x2d ./build/Debug/.obj/src/Modules/Motor.o
+ .ARM.attributes
+                0x080011a9       0x2d ./build/Debug/.obj/src/Modules/PWM.o
+ .ARM.attributes
+                0x080011d6       0x2d ./build/Debug/.obj/src/Modules/Serial.o
+ .ARM.attributes
+                0x08001203       0x2d ./build/Debug/.obj/src/main.o
+ .ARM.attributes
+                0x08001230       0x21 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+ .ARM.attributes
+                0x08001251       0x2d ./build/Debug/.obj/src/stm32f10x_it.o
+ .ARM.attributes
+                0x0800127e       0x2d c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x080012ab       0x1d c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+
+.preinit_array  0x08001024        0x0
+                0x08001024                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08001024                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08001024        0x4
+                0x08001024                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08001024        0x4 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001028                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08001028        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ .fini_array    0x08001028        0x4 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x0800102c                _sidata = .
+
+.data           0x20000000       0x14 load address 0x0800102c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.ADCPrescTable
+                0x20000000        0x4 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x20000004       0x10 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                0x20000014                . = ALIGN (0x4)
+                0x20000014                _edata = .
+
+.igot.plt       0x20000014        0x0 load address 0x08001040
+ .igot.plt      0x20000014        0x0 c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x20000014                . = ALIGN (0x4)
+
+.bss            0x20000014       0x88 load address 0x08001040
+                0x20000014                _sbss = .
+                0x20000014                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000014       0x1c c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.RxState.1
+                0x20000030        0x1 ./build/Debug/.obj/src/Modules/Serial.o
+ .bss.Serial_RxFlag
+                0x20000031        0x1 ./build/Debug/.obj/src/Modules/Serial.o
+                0x20000031                Serial_RxFlag
+ *fill*         0x20000032        0x2 
+ .bss.Serial_RxString
+                0x20000034       0x64 ./build/Debug/.obj/src/Modules/Serial.o
+                0x20000034                Serial_RxString
+ .bss.pRxString.0
+                0x20000098        0x1 ./build/Debug/.obj/src/Modules/Serial.o
+ *(COMMON)
+                0x2000009c                . = ALIGN (0x4)
+ *fill*         0x20000099        0x3 
+                0x2000009c                _ebss = .
+                0x2000009c                __bss_end__ = _ebss
+                [!provide]                PROVIDE (end = _ebss)
+                [!provide]                PROVIDE (_end = _ebss)
+
+._user_heap_stack
+                0x2000009c      0x100 load address 0x080010c8
+                0x2000009c                . = ALIGN (0x4)
+                0x2000009c                . = (. + _Min_Heap_Size)
+                0x2000019c                . = (. + _Min_Stack_Size)
+ *fill*         0x2000009c      0x100 
+                0x2000019c                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(./build/Debug/EGGER_2.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+LOAD c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0x694e
+ .debug_info    0x00000000      0x57c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_info    0x0000057c      0x91e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_info    0x00000e9a      0x97f ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_info    0x00001819     0x2500 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_info    0x00003d19      0xc08 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_info    0x00004921      0x4dd ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .debug_info    0x00004dfe      0x829 ./build/Debug/.obj/src/Modules/Motor.o
+ .debug_info    0x00005627      0x823 ./build/Debug/.obj/src/Modules/PWM.o
+ .debug_info    0x00005e4a      0x858 ./build/Debug/.obj/src/Modules/Serial.o
+ .debug_info    0x000066a2      0x17c ./build/Debug/.obj/src/main.o
+ .debug_info    0x0000681e       0x22 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+ .debug_info    0x00006840      0x10e ./build/Debug/.obj/src/stm32f10x_it.o
+
+.debug_abbrev   0x00000000     0x1117
+ .debug_abbrev  0x00000000      0x187 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_abbrev  0x00000187      0x220 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_abbrev  0x000003a7      0x204 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_abbrev  0x000005ab      0x206 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_abbrev  0x000007b1      0x1dc ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_abbrev  0x0000098d      0x187 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .debug_abbrev  0x00000b14      0x182 ./build/Debug/.obj/src/Modules/Motor.o
+ .debug_abbrev  0x00000c96      0x147 ./build/Debug/.obj/src/Modules/PWM.o
+ .debug_abbrev  0x00000ddd      0x21b ./build/Debug/.obj/src/Modules/Serial.o
+ .debug_abbrev  0x00000ff8       0xc9 ./build/Debug/.obj/src/main.o
+ .debug_abbrev  0x000010c1       0x12 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+ .debug_abbrev  0x000010d3       0x44 ./build/Debug/.obj/src/stm32f10x_it.o
+
+.debug_loc      0x00000000     0x3382
+ .debug_loc     0x00000000      0x16b ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_loc     0x0000016b      0x62c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_loc     0x00000797      0x654 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_loc     0x00000deb     0x1a55 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_loc     0x00002840      0x80c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_loc     0x0000304c       0xff ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .debug_loc     0x0000314b      0x16c ./build/Debug/.obj/src/Modules/Motor.o
+ .debug_loc     0x000032b7       0x32 ./build/Debug/.obj/src/Modules/PWM.o
+ .debug_loc     0x000032e9       0x99 ./build/Debug/.obj/src/Modules/Serial.o
+
+.debug_aranges  0x00000000      0x780
+ .debug_aranges
+                0x00000000       0x40 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_aranges
+                0x00000040       0xa8 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_aranges
+                0x000000e8      0x118 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_aranges
+                0x00000200      0x2f0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_aranges
+                0x000004f0      0x100 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_aranges
+                0x000005f0       0x38 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .debug_aranges
+                0x00000628       0x38 ./build/Debug/.obj/src/Modules/Motor.o
+ .debug_aranges
+                0x00000660       0x28 ./build/Debug/.obj/src/Modules/PWM.o
+ .debug_aranges
+                0x00000688       0x40 ./build/Debug/.obj/src/Modules/Serial.o
+ .debug_aranges
+                0x000006c8       0x30 ./build/Debug/.obj/src/main.o
+ .debug_aranges
+                0x000006f8       0x28 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+ .debug_aranges
+                0x00000720       0x60 ./build/Debug/.obj/src/stm32f10x_it.o
+
+.debug_ranges   0x00000000      0x6e0
+ .debug_ranges  0x00000000       0x30 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_ranges  0x00000030       0x98 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_ranges  0x000000c8      0x108 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_ranges  0x000001d0      0x2e0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_ranges  0x000004b0       0xf0 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_ranges  0x000005a0       0x28 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .debug_ranges  0x000005c8       0x28 ./build/Debug/.obj/src/Modules/Motor.o
+ .debug_ranges  0x000005f0       0x18 ./build/Debug/.obj/src/Modules/PWM.o
+ .debug_ranges  0x00000608       0x48 ./build/Debug/.obj/src/Modules/Serial.o
+ .debug_ranges  0x00000650       0x20 ./build/Debug/.obj/src/main.o
+ .debug_ranges  0x00000670       0x20 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+ .debug_ranges  0x00000690       0x50 ./build/Debug/.obj/src/stm32f10x_it.o
+
+.debug_line     0x00000000     0x4280
+ .debug_line    0x00000000      0x299 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_line    0x00000299      0x6ad ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_line    0x00000946      0x85b ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_line    0x000011a1     0x1a14 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_line    0x00002bb5      0x884 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_line    0x00003439      0x3a2 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .debug_line    0x000037db      0x2c0 ./build/Debug/.obj/src/Modules/Motor.o
+ .debug_line    0x00003a9b      0x23d ./build/Debug/.obj/src/Modules/PWM.o
+ .debug_line    0x00003cd8      0x34d ./build/Debug/.obj/src/Modules/Serial.o
+ .debug_line    0x00004025       0xbc ./build/Debug/.obj/src/main.o
+ .debug_line    0x000040e1       0x79 ./build/Debug/.obj/src/startup_stm32f10x_md.o
+ .debug_line    0x0000415a      0x126 ./build/Debug/.obj/src/stm32f10x_it.o
+
+.debug_str      0x00000000     0x2100
+ .debug_str     0x00000000      0x388 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+                                0x3cd (size before relaxing)
+ .debug_str     0x00000388      0x3a3 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+                                0x53f (size before relaxing)
+ .debug_str     0x0000072b      0x42f ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+                                0x629 (size before relaxing)
+ .debug_str     0x00000b5a      0xba1 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+                                0xe1a (size before relaxing)
+ .debug_str     0x000016fb      0x423 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+                                0x6df (size before relaxing)
+ .debug_str     0x00001b1e       0xa5 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+                                0x2fb (size before relaxing)
+ .debug_str     0x00001bc3       0x94 ./build/Debug/.obj/src/Modules/Motor.o
+                                0x36c (size before relaxing)
+ .debug_str     0x00001c57       0x43 ./build/Debug/.obj/src/Modules/PWM.o
+                                0x603 (size before relaxing)
+ .debug_str     0x00001c9a      0x37e ./build/Debug/.obj/src/Modules/Serial.o
+                                0x868 (size before relaxing)
+ .debug_str     0x00002018       0x18 ./build/Debug/.obj/src/main.o
+                                0x1c3 (size before relaxing)
+ .debug_str     0x00002030       0x2b ./build/Debug/.obj/src/startup_stm32f10x_md.o
+                                 0x54 (size before relaxing)
+ .debug_str     0x0000205b       0xa5 ./build/Debug/.obj/src/stm32f10x_it.o
+                                0x1e0 (size before relaxing)
+
+.comment        0x00000000       0x4d
+ .comment       0x00000000       0x4d ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+                                 0x4e (size before relaxing)
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/src/Modules/Motor.o
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/src/Modules/PWM.o
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/src/Modules/Serial.o
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/src/main.o
+ .comment       0x0000004d       0x4e ./build/Debug/.obj/src/stm32f10x_it.o
+
+.debug_frame    0x00000000      0xf40
+ .debug_frame   0x00000000       0x60 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/misc.o
+ .debug_frame   0x00000060      0x160 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.o
+ .debug_frame   0x000001c0      0x228 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.o
+ .debug_frame   0x000003e8      0x66c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.o
+ .debug_frame   0x00000a54      0x204 ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.o
+ .debug_frame   0x00000c58       0x6c ./build/Debug/.obj/hal/STM32F10x_StdPeriph_Driver/system_stm32f10x.o
+ .debug_frame   0x00000cc4       0x84 ./build/Debug/.obj/src/Modules/Motor.o
+ .debug_frame   0x00000d48       0x48 ./build/Debug/.obj/src/Modules/PWM.o
+ .debug_frame   0x00000d90       0x8c ./build/Debug/.obj/src/Modules/Serial.o
+ .debug_frame   0x00000e1c       0x58 ./build/Debug/.obj/src/main.o
+ .debug_frame   0x00000e74       0xa0 ./build/Debug/.obj/src/stm32f10x_it.o
+ .debug_frame   0x00000f14       0x2c c:/users/chi62/.eide/tools/gcc_arm/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
